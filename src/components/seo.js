@@ -19,10 +19,6 @@ function SEO({ description, lang, meta, title, image, imageAlt, pathname }) {
 
         const seoMeta = [
           {
-            name: 'google-site-verification',
-            content: '9V90sMq3UhH49LukSJblLmiMNITIvwJ9uxwoA7bH7XU'
-          },
-          {
             name: 'description',
             content: metaDescription
           },
